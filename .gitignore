@@ -1,0 +1,21 @@
+## Visual Studio cache and temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Other temp files
+*.tmp
+*.log
+~$*
+
+## Documentation files (kept locally for submission)
+*.doc
+*.docx
+diagram_*.txt
